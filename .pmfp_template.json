@@ -3,7 +3,7 @@
     "env": "venv",
     "description": "",
     "author": "hsz12",
-    "template_type": "task",
+    "template_type": "watcher",
     "requires": [
         "pyproxypattern >= 0.0.1",
         "schema_entry >= 0.1.5",
