@@ -1,14 +1,13 @@
 {
     "language": "py",
     "env": "venv",
-    "description": "",
-    "author": "hsz12",
+    "description": "python监听文件系统的任务模板",
     "template_type": "watcher",
     "requires": [
         "pyproxypattern >= 0.0.1",
         "schema_entry >= 0.1.5",
         "pyloggerhelper >= 0.0.2",
-        "apscheduler >= 3.7.0"
+        "watchdog >= 2.1.5"
     ],
     "test_requires": [
         "coverage >= 5.5",

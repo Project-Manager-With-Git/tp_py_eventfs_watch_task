@@ -6,4 +6,4 @@
 
 组件名|说明
 ---|---
-`crontaskscheduler`|apscheduler的包装,可以单独作为模块使用
+`event_handdler`|watchdog的使用模板,可以单独使用
